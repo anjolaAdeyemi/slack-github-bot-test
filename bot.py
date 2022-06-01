@@ -29,7 +29,7 @@ commit_message = user_data['message']
 description = "description of commit"
 
 # link to reviewers should be displayed
-reviewers = "commerce team"
+reviewers = "commerceee team"
 
 
 message = "\nPull request opened by=> " + user + "\nPull request name=> " + pr_name + "\ncommit message and commit number=> " + commit_message + "\nDescription=> " + description + "\nreviewers=> " + reviewers
