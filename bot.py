@@ -22,7 +22,7 @@ user_data = requests.get(url).json();
 user = user_data['committer']['name']
 
 # pr number and name should be displayed with embeded link to the PR
-pr_name = "name of pr"
+pr_name = "name of pull_request"
 
 # commit message + description
 commit_message = user_data['message']
